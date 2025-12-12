@@ -3,8 +3,7 @@
 ## Nigerian Engineering Olympiad (NEO) - Energy & Sustainability Category
 
 we're proposing a  smart cooking solution that combines induction heating technology with solar power and IoT capabilities to address Nigeria's energy challenges.
-
----
+![first proposed CAD model](https://github.com/Kosisochukwu244/x/blob/ab3f9654700b4311f2e676b16e6d76bcb2f22140/inductionCooker_design1.png)
 
 ## 🎯 Problem Statement
 
